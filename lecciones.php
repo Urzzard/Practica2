@@ -46,3 +46,7 @@
 	}
 
  ?>
+
+ <form action="insertar.php" method="post">
+ 	<input type="submit" name="insertar" value="agregar">
+ </form>
